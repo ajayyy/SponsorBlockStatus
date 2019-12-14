@@ -1,1 +1,0 @@
-# status.sponsor.ajay.app
