@@ -2,10 +2,7 @@ body {
   background-color: #333333;
 }
 
-body {
-  width =  device-width;
-  initial-scale = 1;   
-}
+
 
 .projectPreview {
   position: relative;
@@ -131,7 +128,7 @@ p,li,code,a,sub {
 }
 
 @media screen and (orientation:portrait) {
-  p,li,code,a {
+  p,li,code,a,sub {
 	max-width: 100%;
   }
   
